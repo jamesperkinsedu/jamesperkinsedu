@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome 👋
+## Summary @ Me
+I'm a lecturer, Programmer (**Full-stack** - Backend Prefernce), Cyber Security Imp & Biker!
+> [!CAUTION]
+> This page and profile are maintained in my free-time; Content is all work in progress, Some projects maybe abandoned or be in pre-alpha stages. If anything is public clone at your own risk!
 
 <!--
 **jamesperkinsedu/jamesperkinsedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
