@@ -1,6 +1,6 @@
 # Welcome 👋
 ## Summary @ Me
-I'm a lecturer, Programmer (**Full-stack** - Backend Prefernce), Cyber Security Imp & Biker!
+I'm a lecturer, Programmer (**Full-stack** - Backend Prefernce), Cyber Security Imp, Networking Nusance & Biker!
 > [!CAUTION]
 > This page and profile are maintained in my free-time; Content is all work in progress, Some projects maybe abandoned or be in pre-alpha stages. If anything is public clone at your own risk!
 
